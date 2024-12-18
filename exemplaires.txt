@@ -1,0 +1,10 @@
+1;1;non
+1;2;non
+1;3;oui
+2;1;oui
+3;1;oui
+4;1;non
+4;2;oui
+4;3;oui
+4;4;oui
+4;5;oui
